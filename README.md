@@ -19,7 +19,7 @@
 </div>
 
  <hr/>
- 
+
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
@@ -36,5 +36,11 @@
 ![Thiagogabriel456 GitHub stats](https://github-readme-stats.vercel.app/api?username=Thiagogabriel456&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagogabriel456&hide_progress=true$theme=dark)
+
+  <br/>
+<br>
+
+![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/Thiagogabriel456?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=green) 
+
   <br/>
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=39ff14&height=120&section=footer"/>
