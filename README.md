@@ -1,10 +1,6 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Thiagogabriel456
-.Thiagogabriel456
-" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=39ff14&height=120&section=header"/>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Thiago+Gabriel!;" />
-</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=39ff14&size=28&center=true&vCenter=true&width=1000&lines=Hello!;My+name's+Thiago+Gabriel!;Welcome+to+my+profile+:%29)](https://git.io/typing-svg)
 
 <h3 align="center">Computer science student at university Vila Velha Brasil-ES</h3>
 
@@ -29,18 +25,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,git" />
     <img src="https://skillicons.dev/icons?i=python,javascript,c,mysql" /><br>
-</div>
-
-<br/>
-<hr/>
-
-<div align="center">
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Thiagogabriel456/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
+<br>
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
@@ -52,4 +37,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagogabriel456&hide_progress=true$theme=dark)
   <br/>
-  
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=39ff14&height=120&section=footer"/>
