@@ -50,6 +50,6 @@
 
 ![Thiagogabriel456 GitHub stats](https://github-readme-stats.vercel.app/api?username=Thiagogabriel456&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagogabriel456&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagogabriel456&hide_progress=true$theme=dark)
   <br/>
   
