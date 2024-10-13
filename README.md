@@ -16,11 +16,7 @@
   <a href="https://thiagogabriel456.github.io/Portifolio-html/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
    <!-- sqlite, safari, google-chrome are other good icon options -->
- </a>
- (https://github-readme-activity-graph.vercel.app/graph
- username=Thiagogabriel456&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
- <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Thiagogabriel456&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Thiago Gabriel Dias Campos github stats" /> 
+  </a>
 </div>
 
  <hr/>
@@ -38,10 +34,7 @@
 
 <div align=center>
 
-![Thiagogabriel456 GitHub stats](https://github-readme-stats.vercel.app/api?username=Thiagogabriel456&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagogabriel456&hide_progress=true$theme=dark)
-
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Thiagogabriel456&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Thiago Gabriel Dias Campos github stats" /> 
   <br/>
 <br>
 
