@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=063970&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=063970&size=28&center=true&vCenter=true&width=1000&lines=Hello!;My+name's+Thiago+Gabriel!;Welcome+to+my+profile+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=28&center=true&vCenter=true&width=1000&lines=Hello!;My+name's+Thiago+Gabriel!;Welcome+to+my+profile+:%29)](https://git.io/typing-svg)
 
 <h3 align="center">Computer science student at university Vila Velha Brasil-ES</h3>
 
@@ -45,4 +45,4 @@
 ![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/Thiagogabriel456?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=blue) 
 
   <br/>
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=063970&height=120&section=footer"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
